@@ -1,0 +1,9 @@
+C:\Users\ASUS\source\repos\TaimurTheNeonBlog\DomainDAL_EF\bin\Debug\netstandard2.0\DomainDAL_EF.deps.json
+C:\Users\ASUS\source\repos\TaimurTheNeonBlog\DomainDAL_EF\bin\Debug\netstandard2.0\DomainDAL_EF.dll
+C:\Users\ASUS\source\repos\TaimurTheNeonBlog\DomainDAL_EF\bin\Debug\netstandard2.0\DomainDAL_EF.pdb
+C:\Users\ASUS\source\repos\TaimurTheNeonBlog\DomainDAL_EF\obj\Debug\netstandard2.0\DomainDAL_EF.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\source\repos\TaimurTheNeonBlog\DomainDAL_EF\obj\Debug\netstandard2.0\DomainDAL_EF.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\TaimurTheNeonBlog\DomainDAL_EF\obj\Debug\netstandard2.0\DomainDAL_EF.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\TaimurTheNeonBlog\DomainDAL_EF\obj\Debug\netstandard2.0\DomainDAL_EF.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\TaimurTheNeonBlog\DomainDAL_EF\obj\Debug\netstandard2.0\DomainDAL_EF.dll
+C:\Users\ASUS\source\repos\TaimurTheNeonBlog\DomainDAL_EF\obj\Debug\netstandard2.0\DomainDAL_EF.pdb
